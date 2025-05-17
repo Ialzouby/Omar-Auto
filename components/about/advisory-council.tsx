@@ -26,7 +26,7 @@ export default function AdvisoryCouncil() {
     },
     {
       id: 2,
-      name: "Josh Levine",
+      name: "Issam Alzouby",
       role: "Industrial Designer",
       expertise: ["Design", "Prototyping", "User Experience"],
       image: "/josh-levine.png",
