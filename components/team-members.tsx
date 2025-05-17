@@ -46,9 +46,9 @@ export default function TeamMembers() {
     },
     {
       id: 4,
-      name: "Josh Levine",
+      name: "Issam Alzouby",
       role: "Industrial Designer",
-      bio: "Josh brings extensive product design expertise with a focus on automotive design. His user-centered approach ensures our technology is not only functional but also intuitive and aesthetically pleasing.",
+      bio: "Issam brings extensive product design expertise with a focus on automotive design. His user-centered approach ensures our technology is not only functional but also intuitive and aesthetically pleasing.",
       expertise: ["Design", "Prototyping", "User Experience"],
       image: "/josh-levine.png",
       linkedin: "https://linkedin.com",
