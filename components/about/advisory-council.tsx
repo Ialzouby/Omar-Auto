@@ -21,7 +21,7 @@ export default function AdvisoryCouncil() {
       name: "Christina Noren",
       role: "Strategic Product Advisor",
       expertise: ["Product Strategy", "Go-to-Market", "IPO Experience"],
-      image: "/christina-noren.png",
+      image: "/christina-noren.jpg",
       linkedin: "https://linkedin.com",
     },
     {
@@ -37,7 +37,7 @@ export default function AdvisoryCouncil() {
       name: "Robert Hulse",
       role: "Legal Counsel",
       expertise: ["Legal", "Regulatory Compliance", "IP Protection"],
-      image: "/robert-hulse.png",
+      image: "/robert-hulse.webp",
       linkedin: "https://linkedin.com",
     },
   ]

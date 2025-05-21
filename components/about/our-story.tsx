@@ -72,7 +72,7 @@ export default function OurStory() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="relative h-[500px] rounded-lg overflow-hidden shadow-xl"
           >
-            <Image src="/omar-founder.png" alt="Omar Mukhtar, Founder" fill className="object-cover" />
+            <Image src="/omar-founder.jpg" alt="Omar Mukhtar, Founder" fill className="object-cover" />
           </motion.div>
         </div>
       </div>

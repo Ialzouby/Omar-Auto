@@ -23,7 +23,7 @@ export default function Advisors() {
       role: "Strategic Product Advisor",
       bio: "Christina brings 4× IPO experience as the first CPO/VP at Splunk, CloudBees, and Zuora. Her deep product expertise helps guide our product strategy and go-to-market approach.",
       expertise: ["Product Strategy", "Go-to-Market", "IPO Experience"],
-      image: "/christina-noren.png",
+      image: "/christina-noren.jpg",
       linkedin: "https://linkedin.com",
     },
     {

@@ -23,7 +23,7 @@ export default function Leadership() {
       role: "CEO & Founder",
       bio: "Omar is an AI pioneer who built his first AI product in 2004, decades before mainstream adoption. He has created a proven working autonomous product that's safer than Tesla and has personally built and tested prototypes, including a U-Haul conversion. His foresight allows him to identify trends years before they happen.",
       expertise: ["AI Development", "Autonomous Systems", "Hardware Engineering"],
-      image: "/omar-mukhtar.png",
+      image: "/omar-founder.jpg",
       linkedin: "https://linkedin.com",
     },
     {
@@ -32,7 +32,7 @@ export default function Leadership() {
       role: "Technical Lead",
       bio: "Zachariah holds a Masters in Nuclear Engineering from UC Berkeley with expertise in fusion and plasma simulations and nanotechnology. He co-led an AI meta study submitted to Nature and brings deep technical knowledge to the team.",
       expertise: ["Systems Engineering", "AI Research", "Digital Twins"],
-      image: "/zachariah-ngan.png",
+      image: "/zachariah-ngan.jpeg",
       linkedin: "https://linkedin.com",
     },
     {
@@ -41,7 +41,7 @@ export default function Leadership() {
       role: "Venture Partner",
       bio: "Marcus has a background in Finance from the University of Toronto and brings twice the VC experience through his work with BlackSkies. He's an expert in AI race-cars and leads our fundraising efforts.",
       expertise: ["Fundraising", "Financial Strategy", "Investor Relations"],
-      image: "/marcus-tang.png",
+      image: "/marcus-tang.jpg",
       linkedin: "https://linkedin.com",
     },
     {
@@ -59,7 +59,7 @@ export default function Leadership() {
       role: "Legal Counsel",
       bio: "Robert comes from Fenwick & West with deep regulatory expertise and IP protection experience. He ensures our technology is properly protected and compliant with all relevant regulations.",
       expertise: ["Legal", "Regulatory Compliance", "IP Protection"],
-      image: "/robert-hulse.png",
+      image: "/robert-hulse.webp",
       linkedin: "https://linkedin.com",
     },
   ]

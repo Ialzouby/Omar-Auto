@@ -26,7 +26,7 @@ export default function LeadershipTeam() {
         "Proven autonomous product safer than Tesla",
         "Built & tested prototypes personally",
       ],
-      image: "/omar-mukhtar.png",
+      image: "/omar-founder.jpg",
       linkedin: "https://linkedin.com",
     },
     {
@@ -39,7 +39,7 @@ export default function LeadershipTeam() {
         "Co-led AI meta study submitted to Nature",
         "Systems Engineering",
       ],
-      image: "/zachariah-ngan.png",
+      image: "/zachariah-ngan.jpeg",
       linkedin: "https://linkedin.com",
     },
     {
@@ -52,7 +52,7 @@ export default function LeadershipTeam() {
         "AI race-cars expert",
         "Fundraising",
       ],
-      image: "/marcus-tang.png",
+      image: "/marcus-tang.jpg",
       linkedin: "https://linkedin.com",
     },
   ]
