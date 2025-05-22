@@ -73,7 +73,13 @@ export default function Hero() {
       <Dialog open={videoOpen} onOpenChange={setVideoOpen}>
         <DialogContent className="max-w-4xl p-0 overflow-hidden">
           <div className="aspect-video relative">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/xZffk5k9prQ?si=VQmwYbiZ0I-sqIgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe
+              src="https://www.youtube.com/embed/xZffk5k9prQ?si=VQmwYbiZ0I-sqIgY"
+              title="Product Demo"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              className="absolute inset-0 w-full h-full"
+            ></iframe>
           </div>
         </DialogContent>
       </Dialog>
