@@ -97,27 +97,6 @@ graph TD
   V --> M(Merge → main)
   M --> P[Production Deploy 🌎]
 ```
-
----
-
-## System Architecture
-
-```mermaid
-graph LR
-  subgraph Client‑Side
-    Browser -->|HTTP/2| NextJS
-    NextJS --> Tailwind
-    NextJS --> FramerMotion
-  end
-
-  subgraph Server‑Side Rendering
-    NextJS(RSC Server) --> VercelEdge
-  end
-
-  VercelEdge -->|Static Assets| CDN[(Vercel CDN)]
-  VercelEdge -->|API routes| Functions(Edge Functions)
-```
-
 ---
 
 ## Available Scripts
