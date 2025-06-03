@@ -9,20 +9,6 @@
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)  
-2. [Features](#features)  
-3. [Tech Stack](#tech-stack)  
-4. [Project Structure](#project-structure)  
-5. [Getting Started](#getting-started)  
-6. [Development Pipeline](#development-pipeline)  
-7. [System Architecture](#system-architecture)  
-8. [Available Scripts](#available-scripts)  
-9. [Contributing](#contributing)  
-10. [License](#license)
-
----
-
 ## Overview
 Omar Autonomous is a modern **Next.js&nbsp;14** application that showcases retro‑fit autonomous‑vehicle technology.  
 The site is fully typed with **TypeScript**, styled with **Tailwind CSS**, and animated with **Framer Motion**, providing a fast, accessible, and responsive experience.
