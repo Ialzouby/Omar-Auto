@@ -25,17 +25,6 @@
 Omar Autonomous is a modern **Next.js&nbsp;14** application that showcases retro‑fit autonomous‑vehicle technology.  
 The site is fully typed with **TypeScript**, styled with **Tailwind CSS**, and animated with **Framer Motion**, providing a fast, accessible, and responsive experience.
 
----
-
-## Features
-- ✨ **Hero landing page** with animated headline, call‑to‑action, and modal demo video.  
-- 🏷️ **Marketing sections** (product, technology, testimonials, fleet solutions, careers, etc.).  
-- 🌗 **Dark / Light mode** toggle with `next-themes`.  
-- 🧩 **Reusable UI components** powered by **shadcn/ui** & **Lucide** icons.  
-- 📱 **Responsive design** – looks great on mobile, tablet, and desktop.  
-- ⚡ **Optimised images** via `next/image` and edge‑cached assets.  
-- 🗺 **SEO‑ready** metadata in every route file.  
-- 🛠 **Strict TypeScript** & ESLint for a safe developer experience.
 
 ---
 
