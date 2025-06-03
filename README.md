@@ -1,6 +1,8 @@
 # Omar Autonomous Website
 
-![Homepage Screenshot](home.png)
+<h1 align="center">
+  <img src="home.png" alt="Homepage Screenshot" width="600">
+</h1>
 
 > **Make any vehicle autonomous in just 30 minutes.**  
 > Affordable&nbsp;•&nbsp;Safe&nbsp;•&nbsp;Human‑centred autonomy.
