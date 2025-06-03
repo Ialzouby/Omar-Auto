@@ -1,6 +1,6 @@
 # Omar Autonomous Website
 
-![Homepage Screenshot](docs/website-homepage.png)
+![Homepage Screenshot](home.png)
 
 > **Make any vehicle autonomous in just 30 minutes.**  
 > Affordable&nbsp;•&nbsp;Safe&nbsp;•&nbsp;Human‑centred autonomy.
