@@ -1,7 +1,7 @@
 # Omar Autonomous Website
 
 <h1 align="center">
-  <img src="home.png" alt="Homepage Screenshot" width="600">
+  <img src="home.png" alt="Homepage Screenshot" width="300">
 </h1>
 
 > **Make any vehicle autonomous in just 30 minutes.**  
